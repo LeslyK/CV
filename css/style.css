@@ -1,0 +1,25 @@
+.container-fluid{
+    background-color: burlywood;
+}
+.container{
+	background-color: Cornsilk;
+}
+/*.row{
+    box-shadow: 0px 0px 6px 6px silver;
+}*/
+/*.container{
+    background-color: silver;
+}*/
+.jumbotron p{
+	display: inline-block;
+	padding: 50px;
+	text-align: center;
+}
+
+.jumbotron h1{
+	text-align: center;
+}
+h1, h2{
+	font-weight : bold;
+	font-size: 40px;
+}
